@@ -1,7 +1,13 @@
-tudor-editor-tools:
+editor-tools:
   # For more details on the format
   # Checkout https://docs.flarum.org/extend/i18n.html#appendix-a-standard-key-format
   admin:
     my_cool_key: My Cool Key
 
   forum:
+    composer:
+      diacritice_button: Pune diacritice
+      alert:
+        empty_warning_text: Câmpul pentru text este gol! Scrie ceva...
+        success_text: Diacriticile au fost plasate cu succes!
+        error_text: Ceva nu a mers bine! Incearcă mai târziu!
