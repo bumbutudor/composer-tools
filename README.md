@@ -9,7 +9,7 @@ A [Flarum](http://flarum.org) extension. Tools mainly for text processing.
 Install with composer:
 
 ```sh
-composer require tudor/editor-tools:"*"
+composer require tudor/editor-tools *@dev
 ```
 
 ## Updating
