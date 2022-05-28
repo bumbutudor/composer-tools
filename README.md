@@ -6,8 +6,10 @@ In următoarele versiuni se planifică gestionarea referințelor, gestionarea et
 
 ## Versiune
 
-Versiunea 1.0.1 - 2 aprilie 2022
-Release inițial.
+Versiunea 1.0.1 - 2 aprilie 2022.
+
+Primul release.
+
 
 ## Compatibilitate
 
