@@ -4,7 +4,7 @@ Aceasta este o extensie de portlet care extinde composerul din portlet prin adă
 Această versiune a extensiei include funcționalitatea de plasare a diacriticelor în textul din composer.
 In următoarele versiuni se planifică gestionarea referințelor, gestionarea etichetelor, dicționar interactiv, afișarea numărului de cuvinte, de propoziții, celui mai utilizat cuvânt.
 
-## Versiune
+## Jurnal de modificări
 
 Versiunea 1.0.1 - 2 aprilie 2022.
 Primul release.
