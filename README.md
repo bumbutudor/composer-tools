@@ -4,10 +4,13 @@ Aceasta este o extensie de portlet care extinde composerul din portlet prin adă
 Această versiune a extensiei a include funcționalitatea de plasare a diacriticelor în textul din composer.
 In următoarele versiuni se planifică gestionarea referințelor, gestionarea etichetelor, dicționar interactiv, afișarea numărului de cuvinte, de propoziții, celui mai utilizat cuvânt.
 
-## Versiune 
+## Versiune
 
+## Compatibilitate
 
-## Installation
+Această extensie este compatibilă cu versiunea 1.2.0 de Flarum.
+
+## Instalare
 
 Install with composer:
 
@@ -15,7 +18,7 @@ Install with composer:
 composer require tudor/editor-tools *@dev
 ```
 
-## Updating
+## Actualizare
 
 ```sh
 composer update tudor/editor-tools:"*"
