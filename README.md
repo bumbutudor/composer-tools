@@ -1,6 +1,9 @@
 ## Composer tools
 
-!## Installation
+Aceasta este o extensie de portlet care extinde composerul din portlet prin adăugarea unor instrumente care ajută scriitorul la compunerea articolelor.
+
+
+## Installation
 
 Install with composer:
 
@@ -12,8 +15,6 @@ composer require tudor/editor-tools *@dev
 
 ```sh
 composer update tudor/editor-tools:"*"
-php flarum migrate
-php flarum cache:clear
 ```
 
 ## Links
