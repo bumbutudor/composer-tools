@@ -22,12 +22,14 @@ Install with composer:
 ```sh
 composer require tudor/editor-tools *@dev
 ```
+A fost instalată in portletul Drept.
 
 ## Actualizare
 
 ```sh
 composer update tudor/editor-tools:"*"
 ```
+
 
 ## Links
 - [GitHub](https://github.com/tudor/editor-tools)
